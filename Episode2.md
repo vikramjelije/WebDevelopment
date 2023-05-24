@@ -1,6 +1,6 @@
 #Web Development Notes
 
-##(Video source)[https://www.youtube.com/watch?v=aRUhd1Wd3Sw]
+##[Video source](https://www.youtube.com/watch?v=aRUhd1Wd3Sw)
 
 ##Network: a system where multiple resources to connected together, can communicate with each other.
     1. LAN (in a room/building)

@@ -1,6 +1,6 @@
 #Web Development Notes
 
-##(Video source)[https://www.youtube.com/watch?v=Vi9bxu-M-ag&t=18s]
+##[Video source](https://www.youtube.com/watch?v=Vi9bxu-M-ag&t=18s)
 
 ##Web: a collection of resources & Doc's which can be accessed via internet
     1. Website: a static website
