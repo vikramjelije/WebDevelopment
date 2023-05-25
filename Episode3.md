@@ -5,10 +5,10 @@
 ##History
 ![history](./images/image00.png)
 ## Protocol Stack & packets
-    1. 
-    ![Protocol Stack](./images/image01.png)
-    2. 
-    ![Packet travel](./images/image02.png)
+1. 
+![Protocol Stack](./images/image01.png)
+2. 
+![Packet travel](./images/image02.png)
 
 ##H/W
     1. Switch
