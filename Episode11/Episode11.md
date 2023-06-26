@@ -6,3 +6,4 @@
 
 ##H/W
     1. What is loading lazy? how it increases website performance
+    2. Why videos loading slowly and how to render fast
