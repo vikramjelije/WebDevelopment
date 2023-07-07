@@ -1,0 +1,24 @@
+h1 {
+    font-weight:100;
+    text-align: center;
+}
+
+p {
+    background-color: aquamarine;
+}
+
+#articleid {
+    background-color:crimson    
+}
+
+.myclass {
+    background-color:yellow;
+}
+
+p, a {
+    width: 500px;
+}
+
+p.myclass {
+    text-align: center;
+}
