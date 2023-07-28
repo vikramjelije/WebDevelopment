@@ -5,8 +5,8 @@
 (###Flexbox layout)[./images/flexbox.png]
 (###Flex-direction)[./images/flex-direction.png]
 
-justify-content: always positions elements along main axis
-align items: always positions elements along cross axis
+justify-content: positions elements along main-axis
+align items: positions elements along cross-axis
 align-content: to handle the space between items
 
 flex-Items attributes:
@@ -22,3 +22,12 @@ flex: flex-grow flex-shrink flex-basis
 
 ##H/W
 1. Shorthand notation for flexflow
+    The flex-flow property is a shorthand property for setting both the flex-direction and flex-wrap properties.
+
+        Example:
+        .flex-container {
+        display: flex;
+        flex-flow: row wrap;
+        }
+
+    flex: flex-grow flex-shrink flex-basis
