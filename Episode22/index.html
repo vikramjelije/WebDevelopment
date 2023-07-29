@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        :root{
+            --primary-color:red;
+            --custom-width: 450px;
+        }
+        .container{
+            background-color: antiquewhite;
+            border: 2px solid black;
+            display:flex;
+            justify-content: center;
+            align-items:center;
+            height: 800px;
+        }
+        .box{
+            background-color: aquamarine;
+            border: 2px solid white;
+            margin:5px;
+            padding: 5px;
+            width: var(--custom-width);
+            /* box-shadow: 10px 10px brown; */
+            /* box-shadow: 10px 10px 5px brown; */
+            /* box-shadow: 10px 10px 5px 10px brown; */
+            /* box-shadow: inset 10px 10px 5px 10px brown; */
+            box-shadow: 10px 10px green, 15px 10px var(--primary-color);
+        }
+        p{
+            text-shadow: 5px -4px 2px white, 7px -6px;
+        }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box">
+        <img src="../images/flexbox.png" alt="pic" height="250px" width="250px"/>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. In ducimus
+          aut tempora esse explicabo totam quos dolorem eveniet maiores unde
+          expedita modi consectetur animi possimus placeat, perspiciatis harum
+          est ipsa quod odio? Fuga temporibus atque cumque ad, porro velit,
+          dignissimos assumenda vitae a eum rem iure ex amet laboriosam sed!
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
